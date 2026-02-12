@@ -55,7 +55,8 @@
   },
   "pnpm": {
     "overrides": {
-      "semver": "^7.6.2"
+      "semver": "^7.6.2",
+      "yaml": "^2.2.2"
     }
   },
   "engines": {
