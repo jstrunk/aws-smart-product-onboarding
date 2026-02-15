@@ -7,7 +7,7 @@
       "id": "FEAT-001",
       "type": "fix",
       "description": "Update vulnerable Python dependencies in aws-smart-product-onboarding repository",
-      "status": "pending",
+      "status": "completed",
       "steps": [
         "Update urllib3 from ~1.26.7 to >=2.6.3 in packages/smart-product-onboarding/api/pyproject.toml (direct dependency)",
         "Add cryptography>=46.0.5 constraint to packages/api/handlers/python/pyproject.toml (transitive via moto)",

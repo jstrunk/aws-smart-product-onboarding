@@ -14,6 +14,7 @@ readme = "README.md"
   nltk = "^3.9.1"
   numpy = "^2.2.2"
   python = "^3.12"
+  urllib3 = ">=2.6.3"
 
     [tool.poetry.dependencies.amzn_smart_product_onboarding_api_python_runtime]
     path = "../api"
