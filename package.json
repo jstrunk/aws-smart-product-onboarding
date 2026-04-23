@@ -41,7 +41,7 @@
     "syncpack": "^13",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3",
-    "vite": "^7.1.11",
+    "vite": "^7.3.2",
     "vite-plugin-dts": "^4.5.4",
     "vitest": "^3.2.4"
   },
@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@aws-cdk/aws-cognito-identitypool-alpha": "latest",
-    "aws-cdk-lib": "^2.219.0",
+    "aws-cdk-lib": "^2.250.0",
     "cdk-nag": "^2.37.49"
   },
   "pnpm": {
